@@ -11,4 +11,6 @@
     - matplotlib==3.5.3
     - seaborn==0.12.0
 
+
+  Link to data download: https://drive.google.com/drive/folders/1kzighuTL6yMjAu-X-jvao-KeYbQVBDN1?usp=sharing
   Feel free to contribute.
